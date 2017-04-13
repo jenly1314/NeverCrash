@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
 [![Blog](https://img.shields.io/badge/blog-Jenly-9933CC.svg)](http://blog.csdn.net/jenly121)
 
-NeverCrash for Android 一个全局捕获Crash的库。信NeverCrash，永不Crash，。
+NeverCrash for Android 一个全局捕获Crash的库。信NeverCrash，永不Crash。
 
 ## Gif 展示
 ![Image](GIF.gif)
