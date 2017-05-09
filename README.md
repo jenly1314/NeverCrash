@@ -12,7 +12,7 @@ NeverCrash for Android 一个全局捕获Crash的库。信NeverCrash，永不Cra
 ## 引入
 
 ### Maven：
-```
+```maven
 <dependency>
   <groupId>com.king.thread</groupId>
   <artifactId>nevercrash</artifactId>
@@ -21,17 +21,17 @@ NeverCrash for Android 一个全局捕获Crash的库。信NeverCrash，永不Cra
 </dependency>
 ```
 ### Gradle:
-```
+```gradle
 compile 'com.king.thread:nevercrash:1.0.0'
 ```
 ### Lvy:
-```
+```lvy
 <dependency org='com.king.thread' name='nevercrash' rev='1.0.0'>
   <artifact name='$AID' ext='pom'></artifact>
 </dependency>
 ```
 
-###### 如果Gradle出现compile失败的情况，可以在Project的build.gradle里面添加如下：（也通过可以使用上面的GitPack来complie）
+###### 如果Gradle出现compile失败的情况，可以在Project的build.gradle里面添加如下：（也可以使用上面的GitPack来complie）
 ```gradle
 allprojects {
     repositories {
